@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gilberto
 
-<!--
-**gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught frontend developer from Bogotá, Colombia. I'm following a 12-month plan to become a junior web developer.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React and Tailwind CSS
+- Data structures and algorithms in JavaScript
+
+## Projects
+
+- [Cashmap Landing](https://landing-hito1.netlify.app) — Responsive landing page with dark mode, built with HTML, CSS and JavaScript.
+- [Grid Dashboard](https://grid-dashboardd.netlify.app/) — Dashboard layout built to practice CSS Grid.
+- [DSA Practice](https://github.com/gilbertoroncanciogualteross-creator/dsa-practice) — Solved problems, each with its time and space complexity.
+
+## Contact
+
+[gilbertoroncanciogualteross@gmail.com](mailto:gilbertoroncanciogualteross@gmail.com)
