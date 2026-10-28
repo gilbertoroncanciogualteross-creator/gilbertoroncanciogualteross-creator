@@ -1,18 +1,16 @@
-# Hi, I'm Gilberto
+# Hi, I'm Gilberto.
 
-I'm a self-taught frontend developer from Bogotá, Colombia. I'm following a 12-month plan to become a junior web developer.
+I am a self-taught developer focused on web development, computer science, algorithms, and artificial intelligence.
 
-## What I'm learning
+### What I'm Using & Learning
+- Frontend: React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, CSS Grid
+- Backend & Logic: Python, Data Structures & Algorithms, USACO (Bronze)
+- Tools: Git, GitHub, VS Code, Vite
 
-- React and Tailwind CSS
-- Data structures and algorithms in JavaScript
+### Projects
+- Digit Recognizer from Scratch — A Python implementation of a handwritten digit classifier using the K-Nearest Neighbors (KNN) algorithm without external ML libraries.
+- Cashmap Landing — Responsive landing page featuring dark mode and modern UI design, built with HTML, CSS, and JavaScript.
+- Grid Dashboard — Clean, responsive dashboard layout built to master advanced CSS Grid and component structuring.
 
-## Projects
-
-- [Cashmap Landing](https://landing-hito1.netlify.app) — Responsive landing page with dark mode, built with HTML, CSS and JavaScript.
-- [Grid Dashboard](https://grid-dashboardd.netlify.app/) — Dashboard layout built to practice CSS Grid.
-- [DSA Practice](https://github.com/gilbertoroncanciogualteross-creator/dsa-practice) — Solved problems, each with its time and space complexity.
-
-## Contact
-
-[gilbertoroncanciogualteross@gmail.com](mailto:gilbertoroncanciogualteross@gmail.com)
+### Contact
+- Email: gilbertoroncanciogualteross@gmail.com
