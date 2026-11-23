@@ -69,9 +69,4 @@ Soy un desarrollador frontend autodidacta de Bogotá, Colombia, y sigo un plan d
   <a href="https://github.com/gilbertoroncanciogualteross-creator/dsa-practice"><img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/card-dsa.svg" alt="DSA Practice: problems with their complexity explained" width="49%" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-light.svg" alt="A snake eating my contributions from the last 12 months" width="100%" />
-</picture>
-
 <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/footer.svg" alt="Built one commit at a time" width="100%" />
