@@ -2,7 +2,7 @@ name: Update profile
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 5 * * *" # every day at 00:00 in Bogotá
   workflow_dispatch:
 
 permissions:
@@ -14,29 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Stats card (light)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=57606a
-          path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Stats card (dark)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8ec5fc&text_color=c9d1d9
-          path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Stats card (my own script)
+        run: node scripts/stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          YEARLY_GOAL: "365"
+          OUTPUT: profile/stats.svg
 
       - name: Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake-light.svg?palette=github-light&color_snake=#7c3aed&color_dots=#ebedf0,#e9d5ff,#c4b5fd,#a78bfa,#7c3aed
-            profile/snake-dark.svg?palette=github-dark&color_snake=#8ec5fc&color_dots=#161b22,#3b0764,#5b21b6,#8b5cf6,#c4b5fd
+            profile/snake-light.svg?palette=github-light&color_snake=#14532d
+            profile/snake-dark.svg?palette=github-dark&color_snake=#4ade80
 
       - name: Commit
         run: |
