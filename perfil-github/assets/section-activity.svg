@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="84" viewBox="0 0 1280 84" role="img" aria-labelledby="t d">
+<title id="t">06 Activity · Actividad</title>
+<desc id="d">06 Activity · Actividad</desc>
+<defs>
+
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#020C07"/>
+  <stop offset=".55" stop-color="#05170F"/>
+  <stop offset="1" stop-color="#0A2B1E"/>
+</linearGradient>
+<pattern id="hgrid" width="40" height="40" patternUnits="userSpaceOnUse">
+  <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+</pattern>
+<radialGradient id="hglow" cx=".5" cy=".5" r=".5">
+  <stop offset="0" stop-color="#22C55E" stop-opacity=".42"/>
+  <stop offset=".45" stop-color="#22C55E" stop-opacity=".14"/>
+  <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="hbar" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22C55E"/>
+  <stop offset="1" stop-color="#86EFAC"/>
+</linearGradient>
+<path id="hg0" d="M492 745Q492 798 528 834Q564 870 616 870Q669 870 705 834Q741 798 741 745Q741 693 705 657Q669 621 616 621Q564 621 528 656.5Q492 692 492 745ZM616 1270Q514 1270 467 1145Q420 1020 420 745Q420 471 467 346Q514 221 616 221Q719 221 766 346Q813 471 813 745Q813 1020 766 1145Q719 1270 616 1270ZM123 745Q123 1133 246 1326.5Q369 1520 616 1520Q864 1520 987 1327Q1110 1134 1110 745Q1110 357 987 164Q864 -29 616 -29Q369 -29 246 164.5Q123 358 123 745Z"/>
+<path id="hg1" d="M643 748Q547 748 496.5 678.5Q446 609 446 477Q446 346 496.5 276.5Q547 207 643 207Q739 207 790.5 276.5Q842 346 842 477Q842 608 790.5 678Q739 748 643 748ZM1030 1458V1190Q951 1235 878.5 1257.5Q806 1280 739 1280Q579 1280 495.5 1172.5Q412 1065 408 855Q455 920 528 952.5Q601 985 700 985Q902 985 1012 857.5Q1122 730 1122 496Q1122 245 998.5 107Q875 -31 651 -31Q378 -31 254.5 152Q131 335 131 743Q131 1131 282 1324.5Q433 1518 735 1518Q805 1518 879.5 1503Q954 1488 1030 1458Z"/>
+<path id="hg2" d="M9 0H341L449 325H1006L1110 0H1451L928 1490H532ZM532 571 583 725C631 877 677 1029 731 1214C784 1029 830 877 876 725L926 571Z"/>
+<path id="hg3" d="M588 -24C869 -24 1071 153 1084 397H797C778 286 711 214 592 214C444 214 355 335 355 527C355 720 443 842 592 842C710 842 784 769 799 661H1084C1065 907 866 1080 588 1080C271 1080 58 854 58 527C58 200 270 -24 588 -24Z"/>
+<path id="hg4" d="M711 1056H495V1344H200V1056H18V825H200V280C200 88 307 0 539 0H711V231H598C518 231 495 254 495 326V825H711Z"/>
+<path id="hg5" d="M104 0H399V1056H104ZM251 1189C348 1189 419 1256 419 1346C419 1436 348 1503 251 1503C154 1503 83 1436 83 1346C83 1256 154 1189 251 1189Z"/>
+<path id="hg6" d="M403 0H731L1123 1056H817L645 534C620 451 595 367 571 284C547 367 522 451 495 534L321 1056H12Z"/>
+<path id="hg7" d="M130 -418H325C489 -418 591 -339 658 -163L1123 1056H817L639 534C614 459 591 382 568 306C546 382 522 458 498 534L321 1056H12L418 4L389 -73C361 -154 334 -185 264 -185H130Z"/>
+<path id="hg8" d="M51 0H298L431 393H1017L1154 0H1401L861 1490H581ZM496 583 579 829C616 943 662 1098 720 1311C779 1100 824 948 864 829L950 583Z"/>
+<path id="hg9" d="M618 -23C853 -23 1035 104 1089 315L881 365C851 244 758 163 619 163C417 163 320 340 320 553C320 769 417 946 619 946C756 946 847 867 877 752L1086 802C1031 1009 850 1132 618 1132C303 1132 96 901 96 553C96 208 303 -23 618 -23Z"/>
+<path id="hga" d="M626 1118H403V1384H183V1118H20V939H183V284C183 94 300 -15 503 -15C554 -15 610 -8 657 8L618 184C591 178 548 172 525 172C438 172 403 212 403 302V939H626Z"/>
+<path id="hgb" d="M148 0H368V1118H148ZM259 1289C335 1289 398 1347 398 1419C398 1492 335 1550 259 1550C183 1550 120 1492 120 1419C120 1347 183 1289 259 1289Z"/>
+<path id="hgc" d="M468 0H708L1130 1118H894L673 483C639 384 615 286 590 188C565 286 539 384 505 483L284 1118H46Z"/>
+<path id="hgd" d="M564 -22C766 -22 847 104 886 175H904V0H1118V1490H898V936H886C848 1005 772 1132 564 1132C295 1132 96 920 96 556C96 195 292 -22 564 -22ZM612 165C421 165 321 336 321 558C321 778 418 945 612 945C801 945 902 790 902 558C902 325 799 165 612 165Z"/>
+<path id="hge" d="M461 -25C642 -25 748 66 791 153H802V0H1015V742C1015 1065 758 1132 578 1132C379 1132 191 1054 115 854L322 800C353 876 435 953 581 953C721 953 795 881 795 757V751C795 672 710 673 513 650C302 626 83 570 83 316C83 96 248 -25 461 -25ZM510 152C387 152 299 207 299 313C299 428 401 470 525 487C593 496 763 514 796 546V403C796 272 689 152 510 152Z"/>
+</defs>
+<rect width="1280" height="84" rx="20" fill="url(#hbg)"/><rect width="1280" height="84" rx="20" fill="url(#hgrid)"/><ellipse cx="1216" cy="42" rx="384" ry="288" fill="url(#hglow)" opacity=".85"><animate attributeName="opacity" values=".7;1;.7" dur="7s" repeatCount="indefinite"/></ellipse><rect x=".5" y=".5" width="1279" height="83" rx="20" fill="none" stroke="#163D2D"/>
+<rect x="28" y="24" width="4" height="36" rx="2" fill="#4ADE80"/>
+<g fill="#4ADE80">
+<use xlink:href="#hg0" transform="translate(48.0 49.0) scale(0.00830 -0.00830)"/>
+<use xlink:href="#hg1" transform="translate(58.2 49.0) scale(0.00830 -0.00830)"/>
+</g>
+<g fill="#FFFFFF">
+<use xlink:href="#hg2" transform="translate(86.5 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg3" transform="translate(107.2 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg4" transform="translate(123.9 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg5" transform="translate(134.9 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg6" transform="translate(142.3 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg5" transform="translate(158.9 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg4" transform="translate(166.5 53.0) scale(0.01465 -0.01465)"/>
+<use xlink:href="#hg7" transform="translate(178.3 53.0) scale(0.01465 -0.01465)"/>
+</g>
+<g fill="#6E9C86">
+<use xlink:href="#hg8" transform="translate(1163.0 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hg9" transform="translate(1175.6 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hga" transform="translate(1186.0 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hgb" transform="translate(1192.1 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hgc" transform="translate(1196.6 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hgb" transform="translate(1207.0 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hgd" transform="translate(1211.5 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hge" transform="translate(1222.7 50.0) scale(0.00879 -0.00879)"/>
+<use xlink:href="#hgd" transform="translate(1232.9 50.0) scale(0.00879 -0.00879)"/>
+</g>
+</svg>
