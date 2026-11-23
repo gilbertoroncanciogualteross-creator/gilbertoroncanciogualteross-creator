@@ -71,8 +71,6 @@ Soy un desarrollador frontend autodidacta de Bogotá, Colombia, y sigo un plan d
 
 <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/section-activity.svg" alt="06 Activity" width="100%" />
 
-<img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/stats.svg" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-light.svg" alt="A snake eating my contributions from the last 12 months" width="100%" />
