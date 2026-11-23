@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=150&section=header" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=120&section=header" alt="" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=2600&pause=1000&color=F5F3FF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Gilberto+Roncancio" />
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&duration=2600&pause=1000&color=2E1065&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Gilberto+Roncancio" alt="Gilberto Roncancio" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=44&duration=2400&pause=1000&color=F5F3FF&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Gilberto+Roncancio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=44&duration=2400&pause=1000&color=2E1065&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Gilberto+Roncancio" alt="Gilberto Roncancio" />
   </picture>
 </p>
 
@@ -111,8 +111,8 @@ flowchart LR
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/output/github-snake.svg" alt="My contributions over the last 12 months" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-light.svg" alt="My contributions over the last 12 months" />
   </picture>
 </p>
 
@@ -137,28 +137,17 @@ A finance landing page I built twice: first in plain HTML, CSS and JavaScript, t
 >
 > **Entender antes de construir.** Divido cada concepto en piezas pequeñas y las pruebo una por una antes de escribir el código real.
 
-## Activity · Actividad
+## Stats · Estadísticas
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gilbertoroncanciogualteross-creator&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8ec5fc&text_color=c9d1d9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gilbertoroncanciogualteross-creator&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&icon_color=7c3aed&text_color=57606a" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gilbertoroncanciogualteross-creator&hide_border=true&background=0D1117&ring=C4B5FD&fire=8EC5FC&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" />
-    <img height="165" src="https://streak-stats.demolab.com?user=gilbertoroncanciogualteross-creator&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gilbertoroncanciogualteross-creator&bg_color=0d1117&color=c9d1d9&line=c4b5fd&point=8ec5fc&area=true&area_color=8ec5fc&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilbertoroncanciogualteross-creator&bg_color=ffffff&color=57606a&line=7c3aed&point=2e1065&area=true&area_color=e0c3fc&hide_border=true" alt="Activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/stats-dark.svg" />
+    <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/stats-light.svg" alt="GitHub stats" />
   </picture>
 </p>
 
 <p align="center"><sub>Built one commit at a time · Construido un commit a la vez</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ec5fc,100:e0c3fc&height=110&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ec5fc,100:e0c3fc&height=100&section=footer" alt="" />
 </p>
