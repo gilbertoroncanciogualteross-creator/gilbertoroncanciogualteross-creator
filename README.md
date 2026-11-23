@@ -4,7 +4,7 @@
   <a href="mailto:gilbertoroncanciogualteross@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://cashmap-tailwind.netlify.app/"><img src="https://img.shields.io/badge/Live_demo-16A34A?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo" /></a>
   <a href="https://github.com/gilbertoroncanciogualteross-creator?tab=repositories"><img src="https://img.shields.io/badge/All_repos-061A12?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gilbertoroncanciogualteross-creator&label=Profile%20views&color=16a34a&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gilbertoroncanciogualteross-creator&label=Profile%20views&color=16a34a&style=for-the-badge" alt="Profile visews" />
 </p>
 
 <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/section-about.svg" alt="01 About me" width="100%" />
@@ -71,7 +71,7 @@ Soy un desarrollador frontend autodidacta de Bogotá, Colombia, y sigo un plan d
 
 <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/section-activity.svg" alt="06 Activity" width="100%" />
 
-<img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/stats.svg" alt="My GitHub activity: contributions this year, streaks, active days and weekly contributions, updated daily" width="100%" />
+<img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/stats.svg" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/profile/snake-dark.svg" />
