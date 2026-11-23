@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Stats card (my own script)
+        continue-on-error: true
         run: node scripts/stats.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -22,12 +23,13 @@ jobs:
           OUTPUT: profile/stats.svg
 
       - name: Snake
+        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            profile/snake-light.svg?palette=github-light&color_snake=#14532d
-            profile/snake-dark.svg?palette=github-dark&color_snake=#4ade80
+            profile/contrib-snake-light.svg?palette=github-light&color_snake=#14532d&color_dots=#ebedf0,#bbf7d0,#4ade80,#16a34a,#14532d
+            profile/contrib-snake-dark.svg?palette=github-dark&color_snake=#4ade80&color_dots=#161b22,#14532d,#16a34a,#22c55e,#4ade80
 
       - name: Commit
         run: |
