@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/section-about.svg" alt="01 About me" width="100%" />
 
-I'm a self-taught frontend developer from Bogotá, Colombia, following a 12-month plan to become a junior web developer by August 2027. I build with React and Tailwind CSS, and I'm also into computer science, algorithms and AI.
+I'm a junior software developer from Bogotá, Colombia. I build with React and Tailwind CSS, and I'm also into computer science, algorithms and AI.
 
 **Ask me about:** <kbd>CSS Grid</kbd> <kbd>Flexbox</kbd> <kbd>Tailwind CSS</kbd> <kbd>React components</kbd>
 
@@ -20,7 +20,8 @@ I'm a self-taught frontend developer from Bogotá, Colombia, following a 12-mont
 
 <br />
 
-Soy un desarrollador frontend autodidacta de Bogotá, Colombia, y sigo un plan de 12 meses para convertirme en desarrollador web junior en agosto de 2027. Construyo con React y Tailwind CSS, y también me interesan las ciencias de la computación, los algoritmos y la IA.
+Soy un desarrollador de software junior de Bogotá, Colombia. Construyo con React y Tailwind CSS, y también me interesan las
+ciencias de la computación, los algoritmos y la IA.
 
 **Pregúntame sobre:** <kbd>CSS Grid</kbd> <kbd>Flexbox</kbd> <kbd>Tailwind CSS</kbd> <kbd>Componentes de React</kbd>
 
