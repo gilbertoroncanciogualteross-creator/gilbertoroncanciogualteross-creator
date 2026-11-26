@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/banner.svg" alt="Gilberto Roncancio, self-taught frontend developer from Bogotá, Colombia" width="100%" />
+<img src="https://raw.githubusercontent.com/gilbertoroncanciogualteross-creator/gilbertoroncanciogualteross-creator/main/assets/banner.svg" alt="Gilberto Roncancio, Junior Software Developer from Bogotá, Colombia" width="100%" />
 
 <p align="center">
   <a href="mailto:gilbertoroncanciogualteross@gmail.com"><img src="https://img.shields.io/badge/Email-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
